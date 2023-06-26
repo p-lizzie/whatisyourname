@@ -23,7 +23,7 @@ struct ContentView: View {
             }
             .font(.title2)
             .buttonStyle(.borderedProminent)
-            .tint(Color(hue: 0.921, saturation: 0.542, brightness: 0.924))
+            .tint(Color.teal)
        
             
             
